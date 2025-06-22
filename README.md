@@ -4,8 +4,8 @@ Welcome to the official portfolio website of **Kevin B. Varghese**, an aspiring 
 
 ## 🌐 Live Website
 
-👉 [Visit Website](https://yourusername.github.io/kevin-portfolio)  
-*(Replace with your actual GitHub Pages URL or deployed link)*
+👉 [Visit Website](https://kevin-portfolio-3ms.pages.dev/)  
+
 
 ---
 
